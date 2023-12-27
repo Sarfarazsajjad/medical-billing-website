@@ -2,5 +2,5 @@
 
 return [
     'production' => true,
-    'baseUrl' => 'https://itretina.com',
+    'baseUrl' => 'https://sarfarazsajjad.github.io/medical-billing-website',
 ];
